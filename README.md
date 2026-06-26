@@ -12,3 +12,6 @@ Currently learning: Python, Pandas, Data Analysis
 - Day 3 (June 26, 2026): Found missing values in Age(177), 
   Cabin(687), Embarked(2). Dropped Cabin, filled Age with 
   mean, Embarked with mode. Clean dataset achieved.
+- Day 3 extended: Sorting with nlargest/nsmallest, 
+  correlation matrix, groupby on multiple columns. 
+  Found survivors paid 2x fare and were slightly younger.
