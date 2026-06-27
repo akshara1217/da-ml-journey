@@ -18,3 +18,4 @@ Currently learning: Python, Pandas, Data Analysis
 - Day 4: Visualisation with Matplotlib — bar charts and 
   histograms. Age is normally distributed, Fare is right 
   skewed. Cherbourg passengers paid highest average fare.
+  
