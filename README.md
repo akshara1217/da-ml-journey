@@ -15,3 +15,6 @@ Currently learning: Python, Pandas, Data Analysis
 - Day 3 extended: Sorting with nlargest/nsmallest, 
   correlation matrix, groupby on multiple columns. 
   Found survivors paid 2x fare and were slightly younger.
+- Day 4: Visualisation with Matplotlib — bar charts and 
+  histograms. Age is normally distributed, Fare is right 
+  skewed. Cherbourg passengers paid highest average fare.
