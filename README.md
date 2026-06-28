@@ -18,4 +18,7 @@ Currently learning: Python, Pandas, Data Analysis
 - Day 4: Visualisation with Matplotlib — bar charts and 
   histograms. Age is normally distributed, Fare is right 
   skewed. Cherbourg passengers paid highest average fare.
-  
+- Day 5: Scatter plots, coloured scatter by survival, 
+  pie chart. Completed full Titanic EDA. Added notebook 
+  README with key findings. Higher fare = better survival 
+  visible visually.
