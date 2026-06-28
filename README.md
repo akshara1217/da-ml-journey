@@ -22,3 +22,6 @@ Currently learning: Python, Pandas, Data Analysis
   pie chart. Completed full Titanic EDA. Added notebook 
   README with key findings. Higher fare = better survival 
   visible visually.
+- Day 6: Seaborn — boxplots with outliers and hue, regplot with regression line
+  and confidence interval. Tips dataset. Non-smokers show 
+  stronger bill-tip relationship than smokers.
