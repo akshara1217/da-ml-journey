@@ -25,3 +25,6 @@ Currently learning: Python, Pandas, Data Analysis
 - Day 6: Seaborn — boxplots with outliers and hue, regplot with regression line
   and confidence interval. Tips dataset. Non-smokers show 
   stronger bill-tip relationship than smokers.
+- Day 7: Correlation heatmap and pairplot. Titanic — 
+  Pclass most correlated with Survived (-0.34). 
+  Tips — total_bill and tip strongest pair (0.68).
