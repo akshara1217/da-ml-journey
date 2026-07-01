@@ -31,3 +31,6 @@ Currently learning: Python, Pandas, Data Analysis
 - Day 8: First SQL queries using pandasql. SELECT, WHERE, 
   GROUP BY, ORDER BY, AVG, COUNT. Verified results matched 
   earlier Pandas groupby calculations.
+- DAY 9: Made two data frames passenger and tickets.
+  Applied INNER JOIN and LEFT JOIN on them.
+  
