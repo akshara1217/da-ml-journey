@@ -28,3 +28,6 @@ Currently learning: Python, Pandas, Data Analysis
 - Day 7: Correlation heatmap and pairplot. Titanic — 
   Pclass most correlated with Survived (-0.34). 
   Tips — total_bill and tip strongest pair (0.68).
+- Day 8: First SQL queries using pandasql. SELECT, WHERE, 
+  GROUP BY, ORDER BY, AVG, COUNT. Verified results matched 
+  earlier Pandas groupby calculations.
