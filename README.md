@@ -33,4 +33,6 @@ Currently learning: Python, Pandas, Data Analysis
   earlier Pandas groupby calculations.
 - DAY 9: Made two data frames passenger and tickets.
   Applied INNER JOIN and LEFT JOIN on them.
-  
+- Day 10: HAVING vs WHERE clause, multi-column 
+  GROUP BY. Found passengers with no tickets 
+  using LEFT JOIN + IS NULL pattern.
