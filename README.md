@@ -40,3 +40,7 @@ Currently learning: Python, Pandas, Data Analysis
   project — 153 countries, 12 columns. Top 5: Scandinavian 
   countries. Bottom 5: African/Middle Eastern conflict zones. 
   North America highest avg happiness by region.
+- Day 11: Happiness project charts — top 10 countries bar chart,
+  correlation heatmap (Economy strongest predictor), Economy vs 
+  Happiness regplot (strong relationship), boxplot by region. 
+  North America least variation, Western Europe consistently high.
