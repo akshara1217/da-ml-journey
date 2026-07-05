@@ -44,3 +44,7 @@ Currently learning: Python, Pandas, Data Analysis
   correlation heatmap (Economy strongest predictor), Economy vs 
   Happiness regplot (strong relationship), boxplot by region. 
   North America least variation, Western Europe consistently high.
+- Day 12: Completed Happiness project. Key finding: Generosity 
+  weakest predictor (0.16), Economy strongest (0.81). Central 
+  African Republic scores 0 on Economy and Family. Published 
+  as standalone repo: world-happiness-eda.
