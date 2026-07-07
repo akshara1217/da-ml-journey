@@ -48,3 +48,7 @@ Currently learning: Python, Pandas, Data Analysis
   weakest predictor (0.16), Economy strongest (0.81). Central 
   African Republic scores 0 on Economy and Family. Published 
   as standalone repo: world-happiness-eda.
+- Day 13: Statistics fundamentals — mean vs median (use median 
+  for skewed data), standard deviation, normal distribution 
+  (68-95-99.7 rule), quantiles, IQR outlier detection. 
+  No outliers found in Happiness Score or Economy columns.
