@@ -57,3 +57,8 @@ Currently learning: Python, Pandas, Data Analysis
   Cleaned rate column (removed /5, handled NEW values) and 
   cost column (removed commas). Used pd.to_numeric with 
   errors='coerce' for safe conversion.
+- Day 16: Zomato EDA analysis — table booking strongly affects 
+  rating (3.6 vs 4.1), online ordering minimal impact. Bars & 
+  Pubs most expensive (₹850 avg). Price doesn't guarantee 
+  quality — top rated cuisines are multi-cuisine combos 
+  (data quality issue noted).
