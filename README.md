@@ -52,3 +52,8 @@ Currently learning: Python, Pandas, Data Analysis
   for skewed data), standard deviation, normal distribution 
   (68-95-99.7 rule), quantiles, IQR outlier detection. 
   No outliers found in Happiness Score or Economy columns.
+- Day 14: Revision of all concepts learnt, nothing new added. 
+- Day 15: Started Zomato EDA (51,717 restaurants, 17 columns).
+  Cleaned rate column (removed /5, handled NEW values) and 
+  cost column (removed commas). Used pd.to_numeric with 
+  errors='coerce' for safe conversion.
