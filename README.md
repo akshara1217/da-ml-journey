@@ -62,3 +62,6 @@ Currently learning: Python, Pandas, Data Analysis
   Pubs most expensive (₹850 avg). Price doesn't guarantee 
   quality — top rated cuisines are multi-cuisine combos 
   (data quality issue noted).
+- Day 17: Published Zomato EDA as standalone repo 
+  (zomato-bangalore-eda). Fixed git tracking issues. 
+  3 public portfolio projects now live on GitHub.
