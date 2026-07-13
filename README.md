@@ -65,3 +65,12 @@ Currently learning: Python, Pandas, Data Analysis
 - Day 17: Published Zomato EDA as standalone repo 
   (zomato-bangalore-eda). Fixed git tracking issues. 
   3 public portfolio projects now live on GitHub.
+- Day 18: NumPy — ndarray vs Python list, vectorisation, 
+  np.percentile, IQR outlier detection. Confirmed no outliers 
+  in Happiness Score using pure NumPy.
+- Day 19: First ML model — Linear Regression using scikit-learn.
+  Predicted Titanic fare from Pclass. R2 = 0.18 (low) — Pclass 
+  alone insufficient. Learned train_test_split, model.fit(), 
+  model.predict(), MSE, R2 score. Submitted first open source 
+  PR to datasciencemasters/go (76.8k stars) — updated book 
+  prices and marked free resources as available online.
