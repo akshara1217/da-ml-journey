@@ -74,3 +74,7 @@ Currently learning: Python, Pandas, Data Analysis
   model.predict(), MSE, R2 score. Submitted first open source 
   PR to datasciencemasters/go (76.8k stars) — updated book 
   prices and marked free resources as available online.
+- Day 20: Multiple Linear Regression (4 features, R2=0.177). 
+  First classification model — Logistic Regression on Titanic 
+  survival, 75.5% accuracy. Learned label encoding, 
+  accuracy_score, confusion matrix (TP, TN, FP, FN).
