@@ -78,3 +78,7 @@ Currently learning: Python, Pandas, Data Analysis
   First classification model — Logistic Regression on Titanic 
   survival, 75.5% accuracy. Learned label encoding, 
   accuracy_score, confusion matrix (TP, TN, FP, FN).
+- Day 21: Decision Tree classifier — overfitting demonstrated 
+  (71.3% → 74.1% with max_depth=3). Model comparison chart. 
+  Best model: Logistic Regression with 2 features (78.2%). 
+  Learned hyperparameter tuning concept.
