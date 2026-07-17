@@ -82,3 +82,6 @@ Currently learning: Python, Pandas, Data Analysis
   (71.3% → 74.1% with max_depth=3). Model comparison chart. 
   Best model: Logistic Regression with 2 features (78.2%). 
   Learned hyperparameter tuning concept.
+- Day 22: Random Forest (80.4% accuracy, 100 trees). Feature 
+  importance — Fare most important, Pclass least (different 
+  from correlation analysis). Learned ensemble methods concept.
