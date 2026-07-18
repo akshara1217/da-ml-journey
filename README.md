@@ -85,3 +85,7 @@ Currently learning: Python, Pandas, Data Analysis
 - Day 22: Random Forest (80.4% accuracy, 100 trees). Feature 
   importance — Fare most important, Pclass least (different 
   from correlation analysis). Learned ensemble methods concept.
+- Day 23: Published titanic-ml-project as standalone repo. 
+  Full ML pipeline — EDA, feature engineering, 3 models, 
+  cross validation, model comparison. 4 public portfolio 
+  projects now live on GitHub.
