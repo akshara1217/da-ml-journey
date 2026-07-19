@@ -89,3 +89,7 @@ Currently learning: Python, Pandas, Data Analysis
   Full ML pipeline — EDA, feature engineering, 3 models, 
   cross validation, model comparison. 4 public portfolio 
   projects now live on GitHub.
+- Day 24: KNN classifier (best 67.1% at K=10). Learned 
+  StandardScaler — why feature scaling matters for distance-
+  based algorithms. Full model comparison: Decision Tree 
+  best at 84.3%, KNN worst at 67.1%.
