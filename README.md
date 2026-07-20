@@ -97,3 +97,7 @@ Currently learning: Python, Pandas, Data Analysis
   Survival Prediction. Score: 0.75837 (75.8% accuracy on 
   public leaderboard). Used Random Forest with feature 
   engineering (FamilySize, IsAlone).
+- Day 26: XGBoost — sequential boosting vs Random Forest 
+  parallel trees. CV score 81.6% (best so far) but Kaggle 
+  score 0.736 (lower than RF 0.758). Learned that CV accuracy 
+  doesn't always predict real-world performance.
