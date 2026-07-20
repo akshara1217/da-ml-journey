@@ -93,3 +93,7 @@ Currently learning: Python, Pandas, Data Analysis
   StandardScaler — why feature scaling matters for distance-
   based algorithms. Full model comparison: Decision Tree 
   best at 84.3%, KNN worst at 67.1%.
+- Day 25: First Kaggle competition submission — Titanic 
+  Survival Prediction. Score: 0.75837 (75.8% accuracy on 
+  public leaderboard). Used Random Forest with feature 
+  engineering (FamilySize, IsAlone).
